@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: QuestItemForever
+## Notes: Shows which quests an item belongs to in its tooltip, using the QuestieDB database.
+## Author: tigertom00
+## Version: 1.0.0
+## Category: Quests
+## Dependencies: QuestieDB
+## OptionalDeps: Questie
+
+QuestItemForever.lua
